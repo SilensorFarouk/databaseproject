@@ -38,8 +38,8 @@ The system includes the following main tables:
    CREATE DATABASE Home_Energy_Management_System;
    USE Home_Energy_Management_System;
 
-2. **copy the querry from project.sql and paste on your editor.
-3. **Run the codes and your tables will be created.
+2. **copy the querry from project.sql and paste on your editor**.
+3. **Run the codes and your tables will be created**.
 
-##The ERD diagram
-**The pdf file has the ERD df the database.
+## The ERD diagram
+**The pdf file has the ERD df the database**.
